@@ -1,0 +1,9 @@
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\EXERCISE IN IM (EMPLOYEE PAYROLL) (10-19-20)\Employee Payroll\Employee Payroll\bin\Debug\Employee Payroll.exe
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\EXERCISE IN IM (EMPLOYEE PAYROLL) (10-19-20)\Employee Payroll\Employee Payroll\bin\Debug\Employee Payroll.pdb
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\EXERCISE IN IM (EMPLOYEE PAYROLL) (10-19-20)\Employee Payroll\Employee Payroll\bin\Debug\Employee Payroll.xml
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\EXERCISE IN IM (EMPLOYEE PAYROLL) (10-19-20)\Employee Payroll\Employee Payroll\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\EXERCISE IN IM (EMPLOYEE PAYROLL) (10-19-20)\Employee Payroll\Employee Payroll\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\EXERCISE IN IM (EMPLOYEE PAYROLL) (10-19-20)\Employee Payroll\Employee Payroll\obj\x86\Debug\Employee Payroll.vbproj.GenerateResource.Cache
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\EXERCISE IN IM (EMPLOYEE PAYROLL) (10-19-20)\Employee Payroll\Employee Payroll\obj\x86\Debug\Employee Payroll.exe
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\EXERCISE IN IM (EMPLOYEE PAYROLL) (10-19-20)\Employee Payroll\Employee Payroll\obj\x86\Debug\Employee Payroll.xml
+C:\Users\nicole\Downloads\BSIT 2A (COMPILATION)\EXERCISE IN IM (EMPLOYEE PAYROLL) (10-19-20)\Employee Payroll\Employee Payroll\obj\x86\Debug\Employee Payroll.pdb
